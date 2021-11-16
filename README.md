@@ -1,5 +1,6 @@
 Team 13 Finance Group
 
+Project Managers:
 James (jflemi9) / Sami (salqad3)
 
 Group Members:
